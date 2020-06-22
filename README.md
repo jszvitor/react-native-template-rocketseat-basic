@@ -127,6 +127,10 @@ Serão explicados os arquivos e diretórios na seção de [Edição](#edição).
 ```sh
 react-native init AwesomeExample --template rocketseat-basic
 ```
+ou
+```
+react-native init AwesomeExample react-native-template-rocketseat-basic
+```
 
 2. Depois do projeto criado você pode deletar o arquivo `App.js` da raiz, pois o arquivo `index.js` agora aponta para a pasta **src**.
 
